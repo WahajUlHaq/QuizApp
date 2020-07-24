@@ -26,7 +26,11 @@ flex-direction: column;
 
 
 }
+::placeholder{
 
+color: white;
+
+}
 .welcome_text{
 
  width: 50%;
